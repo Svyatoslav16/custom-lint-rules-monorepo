@@ -1,7 +1,7 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
-  plugins: ['example'],
+  plugins: [],
   rules: {
-    'example/my-first-rule': 'off',
+    
   }
 };

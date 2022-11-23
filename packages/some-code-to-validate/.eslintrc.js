@@ -1,7 +1,7 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
-  plugins: ['example'],
+  plugins: ['custom'],
   rules: {
-    'example/my-first-rule': 'error',
+    'custom/name-interface-const-component': 'error',
   }
 };
