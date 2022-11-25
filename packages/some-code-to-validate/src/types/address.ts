@@ -1,0 +1,20 @@
+export type AddressObjectViewModel = {
+  address: string;
+  aoGuid: string;
+  aOLevel: number;
+  buildNum: number | null;
+  cityName: string;
+  cityShortName: string;
+  fullAddress: string;
+  globalAddress: any;
+  houseGuid: string;
+  houseNum: string;
+  id: string;
+  isCustomObject: boolean;
+  parent: string;
+  postalcode: number | null;
+  regionCode: string;
+  regionName: string;
+  regionShortName: string;
+  strucNum: number | null;
+};

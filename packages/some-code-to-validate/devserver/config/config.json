@@ -1,0 +1,15 @@
+{
+	"env": "test",
+
+	"WEB_TEST": "http://localhost:5515/",
+	"SIGNALR_TEST": "http://ilive.cmsplanet.ru:5095/",
+	"HUB_CONNECTIONS_URL_TEST": "http://ilive.cmsplanet.ru:5084/",
+	"CHAT_CONNECTIONS_URL_TEST": "http://chat.vmeste-lx01.ddp-dev.ru/",
+	"GLOBAL_CHAT_CONNECTIONS_URL_TEST": "http://ilive.cmsplanet.ru:5017/signalr",
+
+	"WEB_PROD": "http://localhost:5525/",
+	"SIGNALR_PROD": "http://ilive.cmsplanet.ru:5095/",
+	"HUB_CONNECTIONS_URL_PROD": "http://ilive.cmsplanet.ru:5084/",
+	"CHAT_CONNECTIONS_URL_PROD": "http://chat.vmeste-lx01.ddp-dev.ru/",
+	"GLOBAL_CHAT_CONNECTIONS_URL_PROD": "http://ilive.cmsplanet.ru:5017/signalr"
+}
